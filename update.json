@@ -3,7 +3,7 @@
     "latestVersionName": "1.3",
     "minVersionCode": 1,
     "forceUpdate": false,
-    "updateMessage": [],
+    "updateMessage": ["Update from google play store"],
     "announcement": "Thank you for using Prinika IPTV!",
     "announcementId": "welcome-3",
     "announcementDismissable": false
