@@ -3,7 +3,7 @@
     "latestVersionName": "1.3",
     "minVersionCode": 1,
     "forceUpdate": false,
-    "updateMessage": ["Testa"],
+    "updateMessage": ["Test"],
     "announcement": "Thank you for using Prinika IPTV!",
     "announcementId": "welcome-1"
   }
