@@ -6,5 +6,5 @@
     "updateMessage": [],
     "announcement": "Thank you for using Prinika IPTV!",
     "announcementId": "welcome-2",
-    "announcementDismissable": true
+    "announcementDismissable": false
   }
