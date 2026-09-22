@@ -4,7 +4,7 @@
     "minVersionCode": 1,
     "forceUpdate": false,
     "updateMessage": ["Update from google play store"],
-    "announcement": "Thank you for using Prinika IPTV!",
+    "announcement": "Thank you for using Prinika IPTV!. Update from google play store",
     "announcementId": "welcome-3",
     "announcementDismissable": false
   }
